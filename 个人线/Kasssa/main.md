@@ -78,7 +78,7 @@ MDY组成后，很快就迎来了星空杯
 
 卡莎打出来他当时职业生涯最为高光的[一打三](#ref-10)rush吃鸡（背景是老吊）
 
-最终决赛以173积分拿下星空杯S1冠军，MDY三人一战成名
+最终决赛以173积分拿下星空杯S1冠军，MDY三人一战成名。[【比赛剪辑】](#ref-45)
 
 ------
 
@@ -224,7 +224,7 @@ GuGu由于训练赛表现优异，加入MDY，补上空缺的第三人位置
 
 <font color="green">【优化小惹，青野回归，MDY7.0组成】- 2022年07月25日</font>
 
-由于成绩+小惹个人问题，卡莎决定换掉小惹
+由于成绩+小惹个人问题，小惹退役
 
 [青野第一次回归](#ref-26)
 
@@ -258,7 +258,7 @@ GuGu由于训练赛表现优异，加入MDY，补上空缺的第三人位置
 
 <font color="green">【青野玉玉退队，QQ加入，MDY8.0组成】- 2022年09月29日</font>
 
-青野对卡勾失望，这种失望又加剧了自身的玉玉症，因此退队
+青野对卡勾失望，这种失望又加剧了自身的玉玉症，彻底不想玩apex了，因此退队
 
 三明治推荐QQ给卡莎，试训效果不错，卡莎马上引入了QQ
 
@@ -274,7 +274,7 @@ MDY再次靠三周的积分打到PRO名额
 
 ------
 
-时间： 2022-9-29——2022-11-23
+时间： 2022-09-29——2022-11-23
 
 
 
@@ -332,11 +332,159 @@ VKG创立后，各种小比赛的[成绩](#ref-34)一直在10名徘徊
 
 卡莎[直播认罪](#ref-37)：”很多时候是我……咎由自取“
 
+卡莎把自己的名字改成了”Sin“，意为原罪
+
 ------
 
 时间： 2022-12-??——2023-04-09
 
 
+
+#### VKG2.0
+
+------
+
+<font color="green">【阿祖jiepai退队，小凯加入，VKG2.0组成】- 2023年05月22日</font>
+
+VKG全队禁赛后，队伍分崩离析，堕入地狱
+
+幽灵决定留队，阿祖jiepai退队，小凯补上阿祖的位置
+
+<font color="red">【艰难训练，半年沉淀】- 2023年05月30日</font>
+
+因为禁赛的原因，pro资格没了，正赛不让打
+
+VKG只能当野狗蹭Pro训练赛，没有自己的位置，或者参加LCQ训练赛，还有一些杯赛。
+
+VK老头自己也组织训练赛和杯赛，给VKG位置，让VKG难得可以好好训练
+
+但VKG的[成绩](#ref-34)不佳，[斗鱼泰坦杯S1](#ref-46)第16名，比赛[翻山](#ref-47)，训练赛在第8名徘徊
+
+此时MDY1.0的老队友飞狙已经进入Year3-s2线下赛，享受线下赛的欢呼；而卡莎被禁赛，只能[中立解说下ALGS线下赛](#ref-51)
+
+卡莎真正开始努力，想出成绩洗刷耻辱，想进世界赛，证明自己。(都有点魔怔了，让水友[cos世界赛](#ref-48))
+
+<font color="red">【黑暗中的曙光，绝望后的希望】- 2023年08月15日</font>
+
+VK举办[23年VA社区夏日派对](#ref-49)比赛，MDY是去年的冠军，今年却已跌入地狱
+
+[最后一局](#ref-50)，皮特一个脚滑让VKG抓到了机会
+
+3打2拿下DF终结了比赛拿下了夏日派对冠军
+
+这也是VKG正式成立半年以来拿到的第一个b级赛事的冠军
+
+拿到冠军后，被压抑了半年的VKG全队瞬间爆发
+
+卡莎连续大叫五声牛逼，禁赛半年的绝望一扫而空
+
+他还能打apex职业，他还可以带领队伍进入ALGS线下赛，他还可能拿到ALGS线下赛冠军
+
+------
+
+时间： 2023-05-22——2023-09-22
+
+
+
+#### VKG3.0
+
+------
+
+<font color="green">【幽灵替补，董哥加入，VKG3.0组成】- 2023年09月22日</font>
+
+幽灵接了17赛季保猎单，保猎需要36万分，要保猎必须每天打很久，而赛季时长有3个月
+
+幽灵保猎保得对apex厌倦了，自我下放到替补席休息
+
+后来卡莎选中了在当时看来实力很强的董哥
+
+在几次训练赛试训后，化学反应看起来也相当不错
+
+最终，9月22日董哥正式加入，卡莎小凯董哥组成了VKG3.0
+
+<font color="green">【幸运拿到Pro资格，成绩不佳】- 2023年11月25日</font>
+
+VKG可能是因为对亚太南赛区的贡献，幸运的不用打PQ，被直邀[APAC-S Year4-s1正赛](#ref-53)
+
+但是这支新的VKG，在久违的Pro训练赛里[成绩](#ref-34)非常差，一直在15名徘徊
+
+原因是董哥近战输出没了，伤害接近于零，身为控制也出现了问题
+
+董哥打出了[《单纯爱董惹》](#ref-54)+ [6把伤害933](#ref-55)
+
+伤害933的最后一把成为了[压死骆驼的最后一根稻草](#ref-56)，让卡莎对董哥彻底绝望：”哈哈，原来(3v3)打300不够，得打500才能赢啊“
+
+------
+
+时间： 2023-09-22——2023-11-02
+
+
+
+#### VKG4.0
+
+------
+
+<font color="green">【优化董哥，青野为爱回归，VKG4.0组成】- 2024年01月06日</font>
+
+卡莎已经决定踢掉董哥，这也是唯一一次卡莎主动踢人
+
+[卡莎找寻第三人](#ref-58)，请了无名但不来，现有的选手都不愿意来，以至于只能让卡奴推荐队友
+
+此时p1在和卡莎语音，卡莎让p1推荐人选
+
+推荐了大甜，发现大甜=董哥，老吊和boring都有队，最后推荐了已经退役的Aono，”要不问一下野呢？“
+
+卡莎嘴上一边说："(p1)别翻尸体"。觉得Aono不可能来，不可能原谅自己
+
+又说：“aono要是来的话我愿意放弃一切，卡哥今年真成熟了。<font color="red">他要回来我愿意一天24个小时，一个月30天，把自己关在地下室打29天apex。我真的改过自新了……如果回来，我愿意把烟戒了、把酒戒了</font>”
+
+微信上已经在偷偷向青野下跪了，求青野复出打职业，但不敢说什么承诺，只敢说一句：[“<font color="red">就是有点想你了</font>”](#ref-60)
+
+青野最后相信卡莎一次，第三次的职业为了卡莎而战，[“<font color="red">我是为了爱而回来的</font>”](#ref-59)
+
+<font color="green">【加倍努力，成绩不佳】- 2024年03月10日</font>
+
+回应青野的信任，卡莎如他承诺的那样加倍努力
+
+训练赛杯赛一场不落下，不开播偷偷跑图看录像（[凌晨四点的跑图](#ref-61)）
+
+虽然训练赛和杯赛的[成绩](#ref-34)不佳，[Year4-S1常规赛](#ref-53)也只有18名
+
+但可以看到卡莎的指挥是一直进步的，只是青野刚回来需要练习，新队伍需要沉淀，这支VKG只是需要一点时间
+
+------
+
+时间： 2024-01-06——2024-05-19
+
+
+
+#### VKG5.0
+
+------
+
+<font color="green">【小凯自尊，QQ回归，VKG5.0组成】- 2024年05月19日</font>
+
+5月12日，[母亲节事变](#ref-63)爆发，百一空降AGL，百一和路处攻击QQ心思不在比赛上
+
+卡神看不下去了开爆，为QQ出气
+
+捶死了百一小森态度，让Jacky道歉
+
+QQ不愿再回AGL，选择来VKG替补
+
+小凯决定[自尊](#ref-64)，即使当时训练赛已经打出了不错的效果，<font color="red">小凯还是主动让出了位置给实力更强的QQ</font>
+
+QQ因此获得首发，与青野卡莎组成了VKG5.0，<font color="red">这支VKG5.0是卡莎博爱MDY大家庭所有人的产物</font>
+
+因为卡莎和小凯的兄弟情，小凯选择了自尊让位；因为卡莎对青野的关爱，青野选择了为爱回归；因为卡莎对后辈QQ的照顾，QQ选择了回到MDY……
+
+<font color="red">【苦尽甘来，圆梦线下】- 2024年07月07日</font>
+
+
+
+------
+
+时间： 2024-05-19——2024-09-12
 
 
 
@@ -489,18 +637,38 @@ VKG创立后，各种小比赛的[成绩](#ref-34)一直在10名徘徊
 31. <a name="ref-31">你值得更好的队友</a>：https://www.bilibili.com/video/BV1nXwQejEZi
 32. <a name="ref-32">VKG线下基地成立</a>：https://www.bilibili.com/opus/761915653672140808
 33. <a name="ref-33">VKG赞助费用</a>【视频06.07处】：https://www.bilibili.com/video/BV1T54y1A7af
-34. <a name="ref-33">VKG成绩</a>：[VK Gaming: Results](https://liquipedia.net/apexlegends/VK_Gaming/Results)
+34. <a name="ref-34">VKG成绩</a>：[VK Gaming: Results](https://liquipedia.net/apexlegends/VK_Gaming/Results)
 35. <a name="ref-35">APAC-S Year3-S2</a>：[Apex Legends Global Series 2022-23: Split 2 Pro League - APAC South](https://liquipedia.net/apexlegends/Apex_Legends_Global_Series/2023/Split_2/Pro_League/APAC_South)
 36. <a name="ref-36">四人小队</a>：https://www.bilibili.com/video/BV1jo4y1q7kz
 37. <a name="ref-37">卡莎解释禁赛半年</a>：https://www.bilibili.com/video/BV1EM4y117rd
 38. <a name="ref-38">嘴硬山</a>：https://www.bilibili.com/video/BV1534y1S7RR
 39. <a name="ref-39">尊重事件</a>：https://www.bilibili.com/video/BV1t24y127AC
-40. <a name="ref-40">ECEAECEA东亚电竞锦标赛</a>：[Esports Championships East Asia - 2023](https://liquipedia.net/apexlegends/Esports_Championships_East_Asia/2023)
+40. <a name="ref-40">ECEA东亚电竞锦标赛</a>：[Esports Championships East Asia - 2023](https://liquipedia.net/apexlegends/Esports_Championships_East_Asia/2023)
 41. <a name="ref-41">ECEA对局录像</a>：https://www.bilibili.com/video/BV1ww411b77N
 42. <a name="ref-42">ECEA风波记录贴</a>：https://tieba.baidu.com/p/9090625110
 43. <a name="ref-43">我真的想杀了这个滋崩的妈</a>：https://www.bilibili.com/video/BV1984y1q7mC
 44. <a name="ref-44">新中国最后一个太监</a>：https://www.bilibili.com/video/BV1PC4y1V7v1
-45. <a name="ref-45">[Apex董神操作集锦]单纯爱董惹</a>：https://www.bilibili.com/video/BV1jQ4y1E7Xe
+45. <a name="ref-45">轰鸣！星空杯冠军卡莎选手从寸步难行到步入佳境！</a>：https://www.bilibili.com/video/BV1H44y1B7Hp
+46. <a name="ref-46">斗鱼泰坦杯S1</a>：[Douyu - 2023 Titan Cup - Season #1](https://liquipedia.net/apexlegends/Douyu/2023/Titan_Cup/Season_1)
+47. <a name="ref-47">VKG2.0翻山</a>：https://www.bilibili.com/video/BV1nd4y1f7Am
+48. <a name="ref-48">卡莎的“ALGS总决赛”</a>：https://www.bilibili.com/video/BV1Uj411U7Le
+49. <a name="ref-49">VA社区夏日派对2023</a>：[VeryAPEX Community - Summer Party 2023](https://liquipedia.net/apexlegends/VeryApex_Community/Summer_Party/2023)
+50. <a name="ref-50">VA社区夏日派对2023最后一局</a>：https://www.bilibili.com/video/BV1Mu411J7rz
+51. <a name="ref-51">卡莎解说Year3-s2线下赛</a>：https://www.bilibili.com/video/BV1Fm4y1J7VU
+52. <a name="ref-52">《幽灵在保猎》</a>：https://www.bilibili.com/video/BV1xX4y1L7cz
+53. <a name="ref-53">APAC-S Year4-s1</a>：[Apex Legends Global Series 2024: Split 1 Pro League - APAC South](https://liquipedia.net/apexlegends/Apex_Legends_Global_Series/2024/Split_1/Pro_League/APAC_South)
+54. <a name="ref-54">单纯爱董惹</a>：https://www.bilibili.com/video/BV1jQ4y1E7Xe
+55. <a name="ref-55">董哥6把933伤害</a>：https://www.bilibili.com/video/BV1WW4y1P7hY
+56. <a name="ref-56">压死骆驼的最后一根稻草</a>：https://www.bilibili.com/video/BV1i94y1M7p6
+57. <a name="ref-57">董哥4090</a>：https://tieba.baidu.com/p/8638815841
+58. <a name="ref-58">青野第二次回归全过程</a>：https://www.bilibili.com/video/BV17k4y197DP
+59. <a name="ref-59">我是为了爱而回来的</a>：https://www.bilibili.com/video/BV1DT4y1H7Hi
+60. <a name="ref-60">就是有点想你了</a>：https://www.bilibili.com/video/BV1PW4y1N7Dv
+61. <a name="ref-61">卡莎凌晨四点跑图切片</a>：https://www.bilibili.com/video/BV1Hs421g7AD
+62. <a name="ref-62">卡莎凌晨四点跑图完整录播</a>：https://www.bilibili.com/video/BV1gr421A7k8
+63. <a name="ref-63">母亲节事变完整切片</a>：https://www.bilibili.com/video/BV1gH4y1u7V3
+64. <a name="ref-64">小凯自尊</a>：https://www.bilibili.com/video/BV1jx4y1W7b5
+65. <a name="ref-65">卡莎小凯红温开庭</a>：https://www.bilibili.com/video/BV1jg4y1m7bQ
 
 
 
@@ -666,3 +834,176 @@ QQ：”卡哥，我回来啦，我来陪你打吧！“
 
 tag：卡圣，伟大
 
+
+
+#### 翻山
+
+------
+
+[视频切片](#ref-47)
+
+【顶峰相见！VKG2.0比赛死于跳伞塔越界超时！】
+
+VKG2.0，泰坦杯比赛
+
+卡勾想从指挥中心顶上一个伞塔越过山顶飞出去
+
+结果没过去，落山顶上，倒计时读秒死了，害死全队
+
+后续开发出正确的翻山方法，但还是会出现失误死人，成为了VKG队员的必备项目之一
+
+------
+
+时间：2023-05-24
+
+
+
+
+
+#### 59骗1，“ALGS世界赛”
+
+------
+
+[视频切片](#ref-48)
+
+【真正的59骗1！找59个锁住cos世界赛！卡神好像想打世界赛想疯掉了！】
+
+VKG2.0，卡莎被禁赛
+
+卡莎想打世界赛想疯了，开了把水友赛，找了59个水友cos ALGS知名选手
+
+开打“ALGS世界赛”，卡莎最终拿下了冠军！
+
+卡莎：“拿下！第一届ALGS全明星冠军！”
+
+------
+
+时间：2023-06-23
+
+
+
+#### 董哥4090
+
+------
+
+[贴吧记录](#ref-57)
+
+董哥刚加入VKG，组成VKG3.0
+
+董哥电脑玩apex不能稳144帧，以为是显卡的问题
+
+送了董哥一张4090试试能不能解决问题
+
+后来董哥退队了也没要回来，让董哥带走了
+
+------
+
+时间：2023-10-07
+
+
+
+#### 我是为了爱而回来的
+
+------
+
+[视频切片](#ref-59)
+
+【VKG优化董哥，没有人愿意和卡莎打】
+
+卡莎邀请青野复出打职业
+
+青野即使已经对apex厌倦，打apex会加重抑郁症病情
+
+还是为了爱而回来，在卡莎最艰难的时候最后帮他一次
+
+------
+
+时间：2024-01-06
+
+
+
+#### 卡莎小凯红温开庭
+
+------
+
+[视频切片](#ref-65)
+
+【训练赛刚落地，隔壁来打3v3，但交流有问题，失误被清】
+
+卡勾觉得是小凯的问题，复盘了8分钟小凯就是不认
+
+小凯：“你打之前你知道人家是手把吗？”
+
+卡莎开爆：“BB就是两手把啊！这不是BB是什么啊？”
+
+小凯开爆：“你打之前你知道是什么人吗？你透视打职业啊？”
+
+卡莎：“我打之前为什么不知道他是哪过来的啊？”（卡莎应该真知道，努力研究了）
+
+后面自己去切片看吧，顶级享受
+
+------
+
+时间：2024-01-15
+
+
+
+#### 母亲节事变帮助QQ
+
+------
+
+[视频切片](#ref-63)
+
+百一空降AGL，要踢了QQ，认为QQ心思不在比赛上【视频切片开头】
+
+MDY众人吃瓜，QQ进入语音频道，卡莎对QQ说：“你知不知道啊？你在MDY你就是大家的掌上明珠，你在AGL就像路边的一条野狗！”，凤凰瞎哥邀请QQ回MDY大家庭。【视频切片01:01:34】
+
+小路开播澄清讲述自己努力，电话连麦QQ指责QQ摆烂【视频切片01:25:20】
+
+卡莎为QQ出气开爆，展示截图：小森骂QQ脑弱屁孩+态度【视频切片02:56:08】
+
+卡莎补刀，说出小森一直都知道27是谁【视频切片03:53:30】
+
+------
+
+时间：2024-05-12
+
+
+
+#### 小凯自尊
+
+------
+
+[视频切片](#ref-64)
+
+母亲节事变结束，已经确定QQ要来VKG替补
+
+小凯认为自己能力比不过QQ，为了不拖累队友，让卡莎圆了线下的梦，决定主动离开让位QQ
+
+青野：“你真要走了啊？”
+
+小凯：“二队去磨练去了”（其实没有二队，只是想自尊了）
+
+青野：“别说我挺想走的，要不我走了，你们和Q子玩？”
+
+小凯：“你这么猛，你走个屁啊？”
+
+小凯：“我草，平时骂我最凶的那几个弹幕，现在他妈在老子直播间搁那哭”
+
+------
+
+时间：2024-05-16
+
+
+
+#### 凌晨四点跑图
+
+------
+
+[视频切片](#ref-61)，[完整录播](#ref-62)
+
+卡莎凌晨四点单人跑图训练
+
+------
+
+时间：2024-06-06
