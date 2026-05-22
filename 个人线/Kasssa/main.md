@@ -614,8 +614,6 @@ VKG也是顺利的闯进最终胜者组
 
 区决最后一把，VKG和GENG的分数不相上下，[卡神DMA发力](#ref-103)，提前几分钟预判GENG的路线和起飞位置，GENG飞进圈时将其清掉，锁定[Year5-s1亚太南常规赛冠军](#ref-102)，拿到 [2025 EWC&ALGS Year5-s1 Playoffs](#ref-104) 的参赛资格
 
-这是VKG也是cnapex的第一个常规赛冠军
-
 <font color=#8B7500>【我们是冠军🏆】- 2025年07月13日</font>
 
 一个月后，[2025 EWC&ALGS Year5-s1 Playoffs](#ref-104)开始
