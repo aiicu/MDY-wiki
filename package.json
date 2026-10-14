@@ -1,0 +1,17 @@
+{
+  "name": "mdy-wiki",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "description": "cnapex-MDY 大家庭史记网站",
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "mermaid": "^11.17.2",
+    "vitepress": "^1.6.4",
+    "vitepress-plugin-mermaid": "^2.0.17"
+  }
+}
